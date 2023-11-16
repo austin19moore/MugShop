@@ -1,9 +1,12 @@
 Technologies used - 
 Frontend: React, React Redux, HTML, CSS, Styled-Components, Axios, Stripe.
+
 Backend: NodeJS, Express, Mongoose, Nodemon, MongoDB.
 
 
+
 Product Images -
+
 Home:
 ![image](https://github.com/austin19moore/StarbucksMugs/assets/80301847/4e3c7c7b-8af4-4f1e-bb8c-a2ba0109d022)
 
