@@ -2,7 +2,7 @@
 
 
 Home:
-![image](https://github.com/austin19moore/StarbucksMugs/assets/80301847/ed2ab582-831c-453c-ada6-533f75a1f7e8)
+![image](https://github.com/austin19moore/StarbucksMugs/assets/80301847/4e3c7c7b-8af4-4f1e-bb8c-a2ba0109d022)
 
 Products:
 ![image](https://github.com/austin19moore/StarbucksMugs/assets/80301847/3999896f-51a3-42fb-ac2e-320327c632e4)
