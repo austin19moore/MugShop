@@ -1,4 +1,5 @@
 Technologies used - 
+
 Frontend: React, React Redux, HTML, CSS, Styled-Components, Axios, Stripe.
 
 Backend: NodeJS, Express, Mongoose, Nodemon, MongoDB.
