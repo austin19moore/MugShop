@@ -1,0 +1,35 @@
+.carousel {
+    width: 100% !important;
+    height: 50vh !important;
+}
+
+.carousel .slide img {
+    width: 50%;
+    max-width: 50%;
+    max-height: 50%;
+    object-fit: contain;
+}
+
+.shop-now-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #00704a;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    display: inline-block;
+    text-align: center;
+}
+
+    .shop-now-button:hover {
+        background-color: #006400;
+    }
+
+.center {
+    text-align: center;
+    margin-top: 30px;
+}
